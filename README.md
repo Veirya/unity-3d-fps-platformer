@@ -7,10 +7,17 @@ on if in the air, and a mostly-functional rope grapple hook. Visuals are complet
 at the moment.
 
 Controls:
+
 Mouse - Rotate Camera
+
 W/S/Up/Down - Foward/Backward
+
 A/D/Left/Right - Left/Right
+
 Spacebar - Jump
+
 G - Fire Grapple Hook
+
 T (While Grapple is Hooked) - Set distance for taut grapple
+
 B (While Grapple is Hooked) - Release Grapple
